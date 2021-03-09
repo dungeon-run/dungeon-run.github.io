@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 #repository_links:
 #  enabled: true
-#page_navigator:
-#  enabled: true
+page_navigator:
+  enabled: true
 #titles_from_headings:
 #  enabled: false
 #
