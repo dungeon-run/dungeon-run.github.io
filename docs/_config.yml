@@ -1,19 +1,13 @@
 theme: jekyll-theme-slate
-layout: page
-title: "ERD"
-permalink: /https://dungeon-run.github.io/erd/
+repository_links:
+  enabled: true
+page_navigator:
+  enabled: true
+titles_from_headings:
+  enabled: false
 
-
-
-#repository_links:
-#  enabled: true
-#page_navigator:
-#  enabled: true
-#titles_from_headings:
-#  enabled: false
-#
-#title: "Dungeon Run"
-#description: "A top down puzzle maze game."
+title: "Dungeon Run"
+description: "A top down puzzle maze game."
 #author:
 #   name: "Hana Dawson, Kaz Penn"
 #
