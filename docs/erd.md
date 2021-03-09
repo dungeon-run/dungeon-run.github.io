@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "ERD"
-permalink: /https://dungeon-run.github.io/erd/
+title: Entity-Relationship Diagram
+description: Data model persistent entities and foreign-key relationships.
+menu: ERD
+order: 50
 ---
 
 [![Entity-relationship diagram](img/erd.svg)](img/erd.pdf)
