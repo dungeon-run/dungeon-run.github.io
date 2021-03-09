@@ -26,7 +26,7 @@ The user can only see up to one space ahead of them and will have to memorize th
 
 * Users will choose the direction of which way their "character" can go by tapping on the "d-pad" to choose an available direction to go.
 
-* There will be different levels of difficulty on a number scale that a user can select. The difficulty rating effects the amount of corridors the player may have to go through to find the exit. With each level of difficulty, the player is also allowed more time to get through the level.
+* There will be levels of difficulty 1-20 that a user can select. The difficulty rating effects the amount of corridors the player may have to go through to find the exit. With each level of difficulty, the player is also allowed more time to get through the level.
 
 * Each time a new maze is rendered, the corridors with be randomly generated. Players can choose to play the same difficulty over and over again but each time they start a new level it will be different.
 
@@ -36,18 +36,16 @@ The user can only see up to one space ahead of them and will have to memorize th
 
 ## Persistent data
 
-* TODO Add once have access to ERD.
+* See [ERD](https://dungeon-run.github.io/erd)
 
 ## Device/external services
 
 * Google sign in
->Google sign in will track the users to allow them to play from the same spots on different devices.
+>Google sign in will track the users to allow them to play from the same levels on different devices.
 
 ## Stretch goals/possible enhancements
 
 * Add different skins so players can change the look of their character
-
-* Add music ? 
 
 * Add Facebook log in
 
