@@ -5,3 +5,11 @@ page_navigator:
   enabled: true
 titles_from_headings:
   enabled: false
+
+title: "Dungeon Run"
+description: "A top down puzzle maze game."
+author:
+   name: "Hana Dawson, Kaz Penn"
+
+# Do not change the following line.
+  copyright: true
