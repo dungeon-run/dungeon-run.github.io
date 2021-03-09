@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-#repository_links:
-#  enabled: true
+repository_links:
+  enabled: true
 page_navigator:
   enabled: true
 #titles_from_headings:
