@@ -3,8 +3,8 @@ repository_links:
   enabled: true
 page_navigator:
   enabled: true
-#titles_from_headings:
-#  enabled: false
+titles_from_headings:
+  enabled: false
 #
 title: "Dungeon Run"
 description: "A top down puzzle maze game."
