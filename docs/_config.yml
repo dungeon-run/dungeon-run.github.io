@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-leap-day
+theme: jekyll-theme-leap-day
 repository_links:
   enabled: true
 page_navigator:
