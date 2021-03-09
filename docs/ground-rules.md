@@ -3,7 +3,6 @@
 * Team Members & Contact info
 > * Hana Dawson *Team Leader*
 > * Kaz Penn
-> * Ben Quintana
 > >* Contact through slack
 
 
