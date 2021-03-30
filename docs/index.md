@@ -41,7 +41,7 @@ The user can only see up to one space ahead of them and will have to memorize th
 ## Device/external services
 
 * Google sign in
->Google sign in will track the users to allow them to play from the same levels on different devices.
+>Google sign in will be used to track the users accomplishments for leaderboards (Levels beaten, time taken, etc...). Google sign in will also allow users to access their same accounts and stats through multiple devices.
 
 ## Stretch goals/possible enhancements
 
