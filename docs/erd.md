@@ -5,4 +5,4 @@ menu: ERD
 order: 50
 ---
 
-[![Entity-relationship diagram](img/erd.png)](img/erd.pdf)
+[![Entity-relationship diagram](img/erd.png)](img/erd.png)
