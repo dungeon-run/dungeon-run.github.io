@@ -34,10 +34,6 @@ The user can only see up to one space ahead of them and will have to memorize th
 
 * Players will have access to a leaderboard that will show ranks of levels beaten and high scores of the fastest times beaten in each difficulty.
 
-## Persistent data
-
-* See [ERD](https://dungeon-run.github.io/erd)
-
 ## Device/external services
 
 * Google sign in
@@ -51,5 +47,7 @@ The user can only see up to one space ahead of them and will have to memorize th
 
 ### Additional Information
 [ERD](https://dungeon-run.github.io/erd)
+
+[Wireframe](https://dungeon-run.github.io/wireframe)
 
 [GitHub Links](https://dungeon-run.github.io/github-links)
