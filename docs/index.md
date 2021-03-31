@@ -50,4 +50,6 @@ The user can only see up to one space ahead of them and will have to memorize th
 
 [Wireframe](https://dungeon-run.github.io/wireframe)
 
+[Data Definition Language](https://dungeon-run.github.io/ddl)
+
 [GitHub Links](https://dungeon-run.github.io/github-links)
