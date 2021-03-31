@@ -51,3 +51,5 @@ The user can only see up to one space ahead of them and will have to memorize th
 
 ### Additional Information
 [ERD](https://dungeon-run.github.io/erd)
+
+[GitHub Links](https://dungeon-run.github.io/github-links)
