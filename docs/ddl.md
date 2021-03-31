@@ -4,7 +4,8 @@ description: Formatted DDL for Entities Tables and Indexes
 menu: ddl
 order: 60
 ---
-[![DataDefinitionLanguage](sql/ddl.sql)](sql/ddl.sql)
+
+## Data Definition Language(DDL)
 
 ```sql
 create table level
@@ -35,3 +36,5 @@ add constraint UK_6f815wi5o4jq8p1q1w63o4mhd unique (oauth_key);
 alter table level
 add constraint FKjlonrfiin8xslrixn7bmh62gh foreign key (user_id) references user_profile;
 ```
+
+[![DataDefinitionLanguage](sql/ddl.sql)](sql/ddl.sql)
