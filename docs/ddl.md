@@ -37,4 +37,4 @@ alter table level
 add constraint FKjlonrfiin8xslrixn7bmh62gh foreign key (user_id) references user_profile;
 ```
 
-[![DataDefinitionLanguage](sql/ddl.sql)](sql/ddl.sql)
+[DataDefinitionLanguage](sql/ddl.sql)
