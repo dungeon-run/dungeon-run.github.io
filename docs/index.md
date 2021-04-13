@@ -4,6 +4,16 @@ description: Project Summary and intended users
 menu: Overview
 order: 0
 ---
+## Creators
+
+* Hana Dawson
+  * [LinkedIn](https://www.linkedin.com/in/hanadawson/)
+  * Hdawsoncoder@gmail.com
+  
+* Kaz Penn
+  * [LinkedIn](https://www.linkedin.com/in/kasmir-penn-a11127206/)
+  * Kazpenn2020@gmail.com
+  
 
 ## Summary
 
