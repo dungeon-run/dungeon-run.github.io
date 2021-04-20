@@ -66,7 +66,7 @@ The user can only see up to one space ahead of them and will have to memorize th
 
 [Technology Inventory](https://dungeon-run.github.io/technology-inventory)
 
-[DataDefinitionLanguage](api/apidocs/index.html)
+[Javadoc](api/apidocs/index.html)
 
 ## Copyright & License information
 Copyright 2021 Hana Dawson, Kaz Penn
