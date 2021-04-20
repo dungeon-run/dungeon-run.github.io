@@ -64,7 +64,7 @@ The user can only see up to one space ahead of them and will have to memorize th
 
 [GitHub Links](https://dungeon-run.github.io/github-links)
 
-[Technology Inventory](https://dungeon-run.github.io/technology-inventory.md)
+[Technology Inventory](https://dungeon-run.github.io/technology-inventory)
 
 ## Copyright & License information
 Copyright 2021 Hana Dawson, Kaz Penn
