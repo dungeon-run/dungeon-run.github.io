@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.cnm.deepdive.dungeonrun"},{"l":"edu.cnm.deepdive.dungeonrun.configuration"},{"l":"edu.cnm.deepdive.dungeonrun.controller"},{"l":"edu.cnm.deepdive.dungeonrun.model.dao"},{"l":"edu.cnm.deepdive.dungeonrun.model.entity"},{"l":"edu.cnm.deepdive.dungeonrun.service"}]
