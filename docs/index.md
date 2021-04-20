@@ -63,3 +63,5 @@ The user can only see up to one space ahead of them and will have to memorize th
 [Data Definition Language](https://dungeon-run.github.io/ddl)
 
 [GitHub Links](https://dungeon-run.github.io/github-links)
+
+[Technology Inventory](https://dungeon-run.github.io/technology-inventory.md)
