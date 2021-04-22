@@ -104,7 +104,7 @@ maze within the time given, or else the game would end, and they would have to r
 
 ### Additional Information
 
-[Summary of project](file://docs/pdf/summary.pdf)
+[Summary of project](pdf/summary.pdf)
 
 [ERD](https://dungeon-run.github.io/erd)
 
