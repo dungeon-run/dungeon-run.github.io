@@ -56,6 +56,9 @@ The user can only see up to one space ahead of them and will have to memorize th
 * Add Facebook log in
 
 ### Additional Information
+
+[Summary of project](https://docs/pdf/summary.pdf)
+
 [ERD](https://dungeon-run.github.io/erd)
 
 [Wireframe](https://dungeon-run.github.io/wireframe)
