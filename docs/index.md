@@ -57,7 +57,7 @@ The user can only see up to one space ahead of them and will have to memorize th
 
 ### Additional Information
 
-[Summary of project](https://docs/pdf/summary.pdf)
+[Summary of project](file://docs/pdf/summary.pdf)
 
 [ERD](https://dungeon-run.github.io/erd)
 
