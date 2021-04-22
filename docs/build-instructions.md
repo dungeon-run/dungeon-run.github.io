@@ -7,7 +7,7 @@ and client sides of the application. When you select either repository, you will
   
 * You must create a project on Google Cloud Console, and create the Android Oauth 2.0 in your project. 
   When you do that, it will ask for an SHA-1 certificate which you must generate from your cloned project in the IDEA.
-  This will also allow the client to gain the BearerToken to communicate effectivly with the service
+  This will also allow the client to gain the BearerToken to communicate effectively with the service
   side of the application.
   
 * You will need to create a properties file for the client side and input the client id gained
