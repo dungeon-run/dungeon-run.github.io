@@ -114,6 +114,8 @@ maze within the time given, or else the game would end, and they would have to r
 
 [GitHub Links](https://dungeon-run.github.io/github-links)
 
+[Build Instructions](build-instructions.md)
+
 [Technology Inventory](https://dungeon-run.github.io/technology-inventory)
 
 [Javadoc](api/apidocs/index.html)
