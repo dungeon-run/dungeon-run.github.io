@@ -30,7 +30,50 @@ The user can only see up to one space ahead of them and will have to memorize th
 
   >As someone who likes to play games, but not on consoles, I would love to have a game that allows me to play when I want, without the pressure of being judged if I am not good enough at the game, and knowing I can go at my own pace.
   
-## Functionality
+## Current state of the app
+
+* On the home page, a user is able to generate a new maze by clicking the new button on the top bar
+navigation. When the user clicks new, a maze is generated based on the current level selected in the
+  preferences' menu.
+    * Users can choose a difficulty level from 1-10, default being 4. This increases the size of the maze, which increases
+  the corridors available for a user to go through.
+  
+* The user can navigate through the maze by clicking a direction on the 'd-pad' which displays
+below the view of the maze. The user has a circle that is shown, starting at the starting cell, shown
+  by a square, and have to navigate through the maze to the end cell which is also shown by a square
+  marker.
+
+* The user is able to switch to leaderboard in the bottom level navigation and see the current list of 
+attempts listed in descending order starting from the lowest time to the highest time completed.
+  
+## Aesthetics to improve
+
+* Update starting/ending markers to be more visually pleasing. Would like to make it no longer just 
+  a colored square, but perhaps a slightly animated circular object that almost looks like a portal.
+  
+
+* Update the circle that shows the users current cell to be something more pleasing. Perhaps allow 
+users to select from different characters, such as a mouse, a person or other types of characters.
+  
+
+* Updating the maze to have different colors on the ground. The ground may be dark at the starting of the
+maze and get lighter the closer you get towards the end of the maze. This could be a good visual cue 
+  for players to know they are getting closer to the end of the maze, especially once we implement the
+  maze paths to be hidden from the user, when they can only see one cell at a time as they navigate through
+  the maze.
+  
+## Functional Stretch goals
+
+* Adding the option to allow users to have the maze hidden from view while going through the maze.
+This would create a different style of game where the user can only see one cell at a time as they navigate
+  through the maze. They could see their trail behind them, however when proceeding forward
+  they would only be able to guess which way to go by which arrows on the controller are highlighted.
+  
+
+* Adding a timer based on difficulty for each level of maze. The user would then have to pass through the
+maze within the time given, or else the game would end, and they would have to restart.
+  
+## Original Intended Functionality
 
 * Users will be set in a grid-like maze and have to move through the maze while only seeing one step ahead at a time with the options of which direction they can go.
 
@@ -52,6 +95,10 @@ The user can only see up to one space ahead of them and will have to memorize th
 ## Stretch goals/possible enhancements
 
 * Add different skins so players can change the look of their character
+
+* Add music
+
+* Add improved graphics
 
 * Add Facebook log in
 
